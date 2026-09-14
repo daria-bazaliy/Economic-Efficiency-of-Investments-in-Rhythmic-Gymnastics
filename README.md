@@ -47,7 +47,7 @@ on investment (ROI).
 
 ## Files
 
-- Full paper and analysis notebook: [Google Drive](https://drive.google.com/drive/folders/1wrMGzDIQgziFV1n4wxiZwiYMkL4OpW9E?usp=sharing)
+- Full paper, data and analysis notebook: [Google Drive](https://drive.google.com/drive/folders/1wrMGzDIQgziFV1n4wxiZwiYMkL4OpW9E?usp=sharing)
 
 ## Tools
 
